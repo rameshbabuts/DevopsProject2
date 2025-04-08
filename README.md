@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Gd9Aofx-iLI&t=507s
+
 # Amazon Prime Clone Deployment Project
 ![Pipeline Overview](./src/Overview.png)
 
